@@ -29,7 +29,7 @@ class HomePage extends StatelessWidget {
               style: TextStyle(
                 color: AppTheme.primary,
                 fontWeight: FontWeight.bold,
-                fontSize: 32,
+                fontSize: 42,
               ),
             ),
             actions: const [
