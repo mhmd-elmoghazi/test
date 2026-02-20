@@ -33,7 +33,7 @@ class LoginPage extends StatelessWidget {
             children: [
               Image.asset(
                 AppAssets.logo,
-                height: size.height * 0.10,
+                height: size.height * 0.11,
               ),
               SizedBox(height: size.height * 0.10),
               const Expanded(
